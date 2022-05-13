@@ -1,1 +1,1 @@
-# INIS_laba2
+https://gleeful-melba-87c177.netlify.app
